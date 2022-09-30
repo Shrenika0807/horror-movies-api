@@ -1129,3 +1129,11 @@
         "director": "Jordan Peele"
     }
 ]
+,
+    {
+        "id": 25,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
+    },
